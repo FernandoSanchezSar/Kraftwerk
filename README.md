@@ -7,7 +7,7 @@ A través de visualizaciones y distribuciones de probabilidad distingiremos los 
 ### Herramienta de análisis de datos
 Python y las librerías pandas, plotly, seaborn, matplotlib y numpy
 
-El archivo python se encuentra en este [link](http:/https://github.com/FernandoSanchezSar/Kraftwerk/blob/main/prompt.ipynb "Aquí")<br>
+El archivo python se encuentra en este [link](http:/https://github.com/FernandoSanchezSar/Kraftwerk/blob/main/prompt.ipynb)<br>
 
 ### Estos fueron los principales hallazgos: 
 Estas son mis hipótesis basadas en las observaciones anteriores:<br>
